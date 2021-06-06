@@ -1,0 +1,2 @@
+Hi 
+This is coursera testing the Git Bash!
